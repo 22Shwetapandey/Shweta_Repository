@@ -19,6 +19,7 @@ public static void main(String[] args) {
 	so.roll_no=13;
 	System.out.println("Student age is:" +so.age);
 	System.out.println("Student roll no is:" +so.roll_no);
+	System.out.println("Student roll no is:" +so.roll_no);
 			
 }
 
